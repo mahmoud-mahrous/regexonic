@@ -181,7 +181,7 @@ const gridCheck = document.querySelector('.grid');
 
 if (gridCheck !== null) { 
 	// init Isotope
-	var iso = new Isotope( '.grid', {
+	var iso = new Isotope('.grid', {
 		itemSelector: '.element-item',
 		layoutMode: 'fitRows'
 	});

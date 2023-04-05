@@ -951,6 +951,7 @@ hr.hr-heading {
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 	text-align: center;
+	height: auto;
 }
 
 .filter .p-heading {
