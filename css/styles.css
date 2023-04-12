@@ -1005,9 +1005,12 @@ hr.hr-heading {
 /***************************/
 /*     Projects Modals     */
 /***************************/
+
+
+
 .projects-modals .modal-dialog {
 	max-width: 1150px;
-	margin-top: 130px;
+	margin-top: 100px !important;
 }
 
 .projects-modals .modal-content {
